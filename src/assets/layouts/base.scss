@@ -1,0 +1,13 @@
+*{
+    background: #000;
+}
+body{
+    color: $primary;
+    font-family: 'Prosto One', cursive;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-top: 100px;
+}
+a{
+    text-decoration: none;
+}
